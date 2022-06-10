@@ -1,0 +1,14 @@
+{
+    "listaNotas": [{
+        "nota": "Esse é um teste",
+        "autor": "Lucas"
+    },
+    {
+        "nota": "Esse é outro teste",
+        "autor": "Lucas"
+    },
+    {
+        "nota": "Esse é um teste com autor diferente",
+        "autor": "IIIIHHAAHHAHA"
+    }]
+}
